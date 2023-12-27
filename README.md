@@ -1,9 +1,9 @@
-# Project Documentation
-     
-     The documentation is divided into two main sections:
-     
-       1. Project content.
-       2. How to navigate the GitHub Project repository.
+# About us:
+
+Building resilience doesn't happen overnight. It's a journey, and we're here to go on.
+
+We are a team of passionate and dedicated students from the faculty of Engineering at Mansoura University, united by a common goal: to empower individuals and communities to face the challenge of earthquakes. Empowered with expertise in artificial intelligence, mobile app development, and disaster management, we have embarked on a mission to save lives and minimize the devastating impact of these natural disasters.
+
 
 <p align="center">
  <img width="400" src="https://user-images.githubusercontent.com/91850794/209578154-9e474e32-3cb2-4d09-afc9-402349caab8e.png" alt="Material Bread logo">
@@ -13,7 +13,7 @@
 
 # Project Content:
 
-It is a Remote Controlled car made as an application of what we have learnt in control course at the university and the following sections illustrates the project in details.
+It is a Technology-Integrated project made as an application of what we have learnt in control course at the university and the following sections illustrates the project in details.
 
 
 ## Abstract:
