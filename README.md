@@ -57,7 +57,7 @@ The mobile app will help users stay safe during an earthquake. It will provide u
  __________________________________________________________________
 | Sensor Testing | Mobile App Testing |
 | ----- | ------|
-| ![gitHub]() | ![gitHub]() |
+| [![video_sensor](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/c5df1e03-9b3f-4543-a0fe-90568c849a35)](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/b2302397-82b6-44ad-940a-78410b6d18f9) | ![gitHub]() |
  __________________________________________________________________
 
 # Team Members:
