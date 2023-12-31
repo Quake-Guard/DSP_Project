@@ -2,7 +2,7 @@
 
 Building resilience doesn't happen overnight. It's a journey, and we're here to go on.
 
-We are a team of passionate and dedicated students from the faculty of Engineering at Mansoura University, united by a common goal: to empower individuals and communities to face the challenge of earthquakes. Empowered with expertise in artificial intelligence, mobile app development, and disaster management, we have embarked on a mission to save lives and minimize the devastating impact of these natural disasters.
+We are a team of passionate and dedicated students from the faculty of Engineering at Mansoura University, united by a common goal: to empower individuals and communities to **face the challenge of earthquakes**. Empowered with expertise in artificial intelligence, mobile app development, hardware design and disaster management, we have embarked on a mission to save lives and minimize the devastating impact of these natural disasters.
 
 
 <p align="center">
@@ -11,13 +11,56 @@ We are a team of passionate and dedicated students from the faculty of Engineeri
  
 
 
-# Project Content:
+# Repository Content:
 
-It is a Technology-Integrated project made as an application of what we have learnt in control course at the university and the following sections illustrates the project in details.
+In this Technology-Integrated project repository, we have:
+* `AI-Webapp`: Houses files and documentation for the earthquake-forecasting web application.
+* `Flutter_app`: Contains files and documentation for the earthquake-awareness Flutter application.
+* `Hardware_design`: Stores code files and circuit designs for the earthquake-sensing hardware components.
+
+
+# Project Overview:
+
+It is a comprehensive system that empowers individuals and communities before, during, and after earthquakes, mitigating the devastating impact of these natural disasters.This system will include three main components:
+
+- A mobile app that will provide users with real-time alerts, personalized evacuation routes, and essential safety tips.
+- A Wepapp that will predict the possible earthquake risk in the upcoming 7-days based on historical data and seismic activity.
+- A sensor network that will detect seismic activity and send alerts to the mobile app.
+
+<div align="center">
+<table>
+  <tr>
+    <td>Hardware Circuit</td>
+     <td>Flutter App</td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/9c763201-6d84-46e0-8fb0-c946b0e47069" width=270 height=400></td>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/37d23dd7-31a5-4eda-b5f8-74f695e98851" width=270 height=600></td>
+  </tr>
+</table>
+ </div>
+
+<div align='center'>
+<table> 
+  <tr>
+    <td>Webapp</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/889613c4-c561-4eb3-a872-e58e33261ddd" width=567 ></td>
+  </tr>
+</table>
+ </div>
+
+The mobile app will help users stay safe during an earthquake. It will provide users with real-time alerts, personalized evacuation routes, and essential safety tips. The Webapp will help communities prepare for earthquakes by predicting areas with high earthquake risk. The sensor network will help emergency services identify areas of damage after an earthquake.
 
 
 ## Abstract:
 
+
+
+
+ 
+|![image]()|![image](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/18b90478-d9f2-4df7-9f49-eaf7867e5496)|
 > The project aims to design a car and do some control analysis on its system to apply what we have learnt in our unviersity control course. The main component of the car deisgn is the Arduino mircrocontroller that controls the movement of the car through digital signals received from the mobile phone via bluetooth module connected to the Arduino. In this open loop system of the car, we were interseted in studying the transfer function and analyse the its error that resulted from the studting its step response. Finally, all the project details was documented in the following sections.
 
 ## Introduction:
