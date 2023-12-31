@@ -1,10 +1,11 @@
 # Realtime Earthquake Predictor application 
+## This Project is little modification on @aditua-167 project [Here](https://github.com/aditya-167/Realtime-Earthquake-forecasting):   
 
 A realtime earthquake predictor web app with google maps API, that forecasts earthquake possible epicenters and places in window of next 7 days.
 
-![web-app](https://github.com/aditya-167/Realtime-Earthquake-forecasting/blob/master/Images/application.jpg)
+![WhatsApp Image 2023-12-29 at 06 40 49](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/88021df9-60dd-4f63-bdca-456c18ff16a9)
 
-Web app link : [http://srichaditya3098.pythonanywhere.com/](http://srichaditya3098.pythonanywhere.com/)
+
 
 ### Code files
 
@@ -53,6 +54,8 @@ I have implemented all the neccesary steps in these IPYBN notebooks. I recommend
 Note for **windows user** : install gitbash and proceed with same instruction as linux.
 
 `step 1` : `$ git clone https://github.com/aditya-167/Realtime-Earthquake-forecasting.git`
+>* For any problems, you may change the buffer-size: `git config --global http.postBuffer 524288000`
+>* Or the HTTP-version: `$ git config --global http.version HTTP/1.1`
 
 `step 2` : `$ cd Realtime-Earthquake-forecasting`
 
