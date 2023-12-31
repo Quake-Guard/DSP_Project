@@ -50,6 +50,12 @@ It is a comprehensive system that empowers individuals and communities before, d
 
 The mobile app will help users stay safe during an earthquake. It will provide users with real-time alerts, personalized evacuation routes, and essential safety tips. The Webapp will help communities prepare for earthquakes by predicting areas with high earthquake risk. The sensor network will help emergency services identify areas of damage after an earthquake.
 
+# Project Testing:
+ __________________________________________________________________
+| Sensor Testing | Mobile App Testing |
+| ----- | ------|
+| ![gitHub]() | ![gitHub]() |
+ __________________________________________________________________
 
 # Team Members:
 * [Hassan Shehata](https://www.linkedin.com/in/hassan-shehata-83495223b/)
