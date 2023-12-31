@@ -51,10 +51,10 @@ The mobile app will help users stay safe during an earthquake. It will provide u
 
 
 # Team Members:
-* Emam Mohammad
-* Hassan Shehata
-* Mahmoud Atta
-* Mostafa Edrees
-* Omar Allam
-* Sara Ahmed
-* Shaimaa Elsayed
+* [Hassan Shehata](https://www.linkedin.com/in/hassan-shehata-83495223b/)
+* [Emam Mohamed](https://www.linkedin.com/in/emam-mohamed1/)
+* [Mahmoud Atta](https://www.linkedin.com/in/mahmoud-atta-a54b8624a/)
+* [Mostafa Edrees](https://www.linkedin.com/in/mostafa-edrees-427373225/)
+* [Omar Allam](https://www.linkedin.com/in/omarallam22/)
+* [Sara Ahmed]()
+* [Shaimaa Elsayed](https://www.linkedin.com/in/shimaa-elsayed-aa369a22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
