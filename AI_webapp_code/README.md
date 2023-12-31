@@ -53,7 +53,7 @@ I have implemented all the neccesary steps in these IPYBN notebooks. I recommend
 
 Note for **windows user** : install gitbash and proceed with same instruction as linux.
 
-`step 1` : `$ git clone https://github.com/aditya-167/Realtime-Earthquake-forecasting.git`
+`step 1` : `$ git clone https://github.com/The-Seismic-Seven/DSP_Project.git`
 >* For any problems, you may change the buffer-size: `git config --global http.postBuffer 524288000`
 >* Or the HTTP-version: `$ git config --global http.version HTTP/1.1`
 
