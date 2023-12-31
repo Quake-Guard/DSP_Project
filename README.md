@@ -35,13 +35,7 @@ It is a comprehensive system that empowers individuals and communities before, d
      </td>
   </tr>
 </table>
- 
- <!--  <video> -->
-      
-<!-- [![Webapp_video](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/889613c4-c561-4eb3-a872-e58e33261ddd)](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/42f8734a-54ab-4f98-ae21-a95509860b1a)-->
 
-<!--     </video>-->
- 
  </div>
 
 <div align="center">
