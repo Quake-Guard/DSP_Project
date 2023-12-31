@@ -5,8 +5,6 @@ Building resilience doesn't happen overnight. It's a journey, and we're here to 
 We are a team of passionate and dedicated students from the faculty of Engineering at Mansoura University, united by a common goal: to empower individuals and communities to **face the Earthquake Challenge**. Empowered with expertise in artificial intelligence, mobile app development, hardware design and disaster management, we have embarked on a mission to save lives and minimize the devastating impact of these natural disasters.
 <p align="center">
  <img width="300" src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/a21119f1-221b-4556-ac57-c4ee5cf649df" alt="Material Bread logo">
- </p>
-<p align="center">
  <img width="300" src="https://github.com/The-Seismic-Seven/DSP_Project/blob/main/Images/FB_IMG_1704035216293.jpg" alt="Material Bread logo">
  </p>
 
