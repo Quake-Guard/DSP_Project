@@ -27,6 +27,17 @@ It is a comprehensive system that empowers individuals and communities before, d
 - A Wepapp that will predict the possible earthquake risk in the upcoming 7-days based on historical data and seismic activity.
 - A sensor network that will detect seismic activity and send alerts to the mobile app.
 
+<div align='center'>
+<table> 
+  <tr>
+    <td>Webapp</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/889613c4-c561-4eb3-a872-e58e33261ddd" width=567 ></td>
+  </tr>
+</table>
+ </div>
+
 <div align="center">
 <table>
   <tr>
@@ -40,27 +51,12 @@ It is a comprehensive system that empowers individuals and communities before, d
 </table>
  </div>
 
-<div align='center'>
-<table> 
-  <tr>
-    <td>Webapp</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/889613c4-c561-4eb3-a872-e58e33261ddd" width=567 ></td>
-  </tr>
-</table>
- </div>
-
 The mobile app will help users stay safe during an earthquake. It will provide users with real-time alerts, personalized evacuation routes, and essential safety tips. The Webapp will help communities prepare for earthquakes by predicting areas with high earthquake risk. The sensor network will help emergency services identify areas of damage after an earthquake.
 
 
 ## Abstract:
 
 
-
-
- 
-|![image]()|![image](https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/18b90478-d9f2-4df7-9f49-eaf7867e5496)|
 > The project aims to design a car and do some control analysis on its system to apply what we have learnt in our unviersity control course. The main component of the car deisgn is the Arduino mircrocontroller that controls the movement of the car through digital signals received from the mobile phone via bluetooth module connected to the Arduino. In this open loop system of the car, we were interseted in studying the transfer function and analyse the its error that resulted from the studting its step response. Finally, all the project details was documented in the following sections.
 
 ## Introduction:
