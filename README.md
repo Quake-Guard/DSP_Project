@@ -6,6 +6,9 @@ We are a team of passionate and dedicated students from the faculty of Engineeri
 <p align="center">
  <img width="300" src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/a21119f1-221b-4556-ac57-c4ee5cf649df" alt="Material Bread logo">
  </p>
+<p align="center">
+ <img width="300" src="https://github.com/The-Seismic-Seven/DSP_Project/blob/main/Images/FB_IMG_1704035216293.jpg" alt="Material Bread logo">
+ </p>
 
 # Repository Content:
 
