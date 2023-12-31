@@ -30,9 +30,12 @@ It is a comprehensive system that empowers individuals and communities before, d
     <td>Webapp</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/889613c4-c561-4eb3-a872-e58e33261ddd" width=567 ></td>
+    <td>
+     <img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/87552101-ea71-45cb-bf2f-d7bff427dda0" width=567 >
+     </td>
   </tr>
 </table>
+
  </div>
 
 <div align="center">
