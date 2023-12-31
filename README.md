@@ -51,6 +51,7 @@ The mobile app will help users stay safe during an earthquake. It will provide u
 
 
 # Team Members:
+* Emam Mohammad
 * Hassan Shehata
 * Mahmoud Atta
 * Mostafa Edrees
