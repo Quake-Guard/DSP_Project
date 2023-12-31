@@ -45,8 +45,8 @@ It is a comprehensive system that empowers individuals and communities before, d
      <td>Flutter App</td>
   </tr>
    <tr>
-    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/9c763201-6d84-46e0-8fb0-c946b0e47069" width=270 height=400></td>
-    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/37d23dd7-31a5-4eda-b5f8-74f695e98851" width=270 height=600></td>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/f6fcdd33-01aa-4690-bfe7-4d4effba1f26" width=270 height=400></td>
+    <td><img src="https://github.com/The-Seismic-Seven/DSP_Project/assets/91850794/91ec81ae-4fd2-49a9-be60-f67beb1bf548" width=270 height=400></td>
   </tr>
 </table>
  </div>
