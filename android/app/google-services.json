@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643389064858",
+    "project_id": "dsp-project-7031b",
+    "storage_bucket": "dsp-project-7031b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643389064858:android:0fde493b8b968726288123",
+        "android_client_info": {
+          "package_name": "com.flutter.dsp_project.dsp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCcvCfjrbQAo78OcXWavEqd0hmeg7TIOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
