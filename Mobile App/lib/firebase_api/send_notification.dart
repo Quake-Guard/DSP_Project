@@ -5,15 +5,15 @@ import 'package:http/http.dart' as http;
 
 sendNotification() async {
   String url =
-      'https://fcm.googleapis.com/v1/projects/dsp-project-7031b/messages:send';
+      'https://fcm.googleapis.com/fcm/send';
   String serverKey =
       'AAAAlcz6Bpo:APA91bHTLb0H73AZVk8GnWLYrIespyu4pKzropYOpk6aT3n6fy7mQ_weKb2RUDusK55_cNdYTPGB_xoN2IRn9jyHFVSLiGi18cVpXiGHCRn6TzCxjS81DFfYOUfcUA_cKQKm1ZOetV9P';
-  String tobic = 'dsp_project';
+  String topic = 'dsp_project';
   Map<String, dynamic> body = {
-    "message": {
-      "topic": tobic,
-      "notification": {"title": "تحذير !!!", "body": "هناك زلزال"},
-      "data": {"Nick": "Mario", "Room": "PortugalVSDenmark"}
+    "to": "/topics/$topic",
+    "notification": {
+      "title": "تحذير !!!",
+      "body": "هناك زلزال"
     }
   };
 
@@ -21,7 +21,7 @@ sendNotification() async {
     Uri.parse(url),
     headers: <String, String>{
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer $serverKey',
+      'Authorization': 'key=$serverKey',
     },
     body: jsonEncode(body),
   );
