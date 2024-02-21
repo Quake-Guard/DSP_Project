@@ -66,5 +66,5 @@ The mobile app will help users stay safe during an earthquake. It will provide u
 * [Mahmoud Atta](https://www.linkedin.com/in/mahmoud-atta-a54b8624a/)
 * [Mostafa Edrees](https://www.linkedin.com/in/mostafa-edrees-427373225/)
 * [Omar Allam](https://www.linkedin.com/in/omarallam22/)
-* [Sara Ahmed]()
+* [Sara Ahmed](https://www.linkedin.com/in/sara-ahmed-017422252/)
 * [Shaimaa Elsayed](https://www.linkedin.com/in/shimaa-elsayed-aa369a22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
